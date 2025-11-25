@@ -6,8 +6,9 @@ print("________________Choose Your Option___________________  ")
 print("1.Add Money")
 print("2.send Money")
 print("3.Cashout")
+print("4.Balance check")
 #taking Input from user
-choice = int(input("Enter Your Choice 1/2/3 :")) 
+choice = int(input("Enter Your Choice 1/2/3/4 :")) 
 money = 5000;
 #using if else for decision making
 if choice == 1 :
@@ -30,6 +31,9 @@ elif choice == 3:
     else:
         money-=cashout
         print(f"Your Current Amount Is {money}")
+elif choice == 4:
+    print(f"Your Current Balance is {money}")        
 else:
     print("Invalid Choice")        
+
 
