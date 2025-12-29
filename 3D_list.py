@@ -8,6 +8,7 @@ s = [13,14,15]
 i = [16,17,18]
 j = [19,20,21]
 
+
 L[1].append(s)
 #we can append in multidimension list using indexing
 print("After Appending ")
