@@ -1,4 +1,5 @@
 
+
 vowels = "aeiou"
 word = "aaaaaaaa"
 count = 0 ;
