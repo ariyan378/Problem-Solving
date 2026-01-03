@@ -5,6 +5,7 @@ try:
         print(f.read())
 
 
+
 except Exception as e:
     print(e)        
 try:
@@ -21,6 +22,7 @@ try:
 
 except Exception as e:
     print(e) 
+
 
 
 print("Thank you")          
