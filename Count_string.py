@@ -1,3 +1,5 @@
+
+
 word = input('Enter your Sentence :')
 vowel = 'aeiou'
 count = 0
