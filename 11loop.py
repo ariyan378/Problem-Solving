@@ -1,4 +1,4 @@
-
+    
 
 vowels = "aeiou"
 word = "aaaaaaaa"
@@ -9,3 +9,4 @@ for char in word:
         count = count +1
 
 print(f"Total  vowels in {word} is {count}")
+
