@@ -11,6 +11,7 @@ class Computation:
             j = j * i
         return j
 
+
 # --- Sum of the first n numbers ----
     def naturalSum(self, n):
         j = 1
