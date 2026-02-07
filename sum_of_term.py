@@ -14,4 +14,5 @@ for i in range(n):
     current_term = current_term * 10 + 2
 
 print(output_str)
+
 print(f"Sum of above series is: {total_sum}")
